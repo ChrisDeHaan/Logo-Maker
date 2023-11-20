@@ -1,6 +1,8 @@
 const inquirer = require('inquirer');
 const { writeFile } = require('fs/promises')
 
+const { Shape, Circle, Square, Triangle } = require('./lib/shapes')
+
 const questions = [
     {
         type: 'input',
