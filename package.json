@@ -1,0 +1,23 @@
+{
+  "name": "challenge-10-oop-logos",
+  "version": "1.0.0",
+  "description": "svg logo maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisDeHaan/Logo-Maker.git"
+  },
+  "author": "chris dehaan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisDeHaan/Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/ChrisDeHaan/Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
